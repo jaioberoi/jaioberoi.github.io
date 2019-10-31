@@ -2,11 +2,14 @@ name: "Jai's Website"
 output_dir: "."
 navbar:
   title: "Jai Oberoi"
-  right:
+  left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "resume"
+      href: resume.html
+  right:
     - icon: fa-envelope fa-lg
       href: mailto:<jaioberoi99@gmail.com>
     - icon: fa-linkedin fa-lg
