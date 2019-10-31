@@ -3,6 +3,8 @@ title: "Jai's Website"
 output: html_document
 ---
 
+Check out my dashboard: [dashboard](dashboard.html)
+
 ![](images/homepagepic.jpg) 
 
 
