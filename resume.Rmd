@@ -7,14 +7,14 @@ output: html_document
 
 # EDUCATION
 
-**Columbia University, Mailman School of Public Health**
-New York, NY
-*Epidemiology Major, Certificate in Applied Biostatistics (MPH)*  
+**Columbia University, Mailman School of Public Health** <br>
+New York, NY <br>
+*Epidemiology Major, Certificate in Applied Biostatistics (MPH)* <br> 
 August 2018 - May 2020 (expected)
    
-**Emory University, College of Arts and Sciences**	             
-Atlanta, GA
-*Human Health Major, Economics Minor (BA)*					   
+**Emory University, College of Arts and Sciences**	<br>             
+Atlanta, GA <br>
+*Human Health Major, Economics Minor (BA)* <br>					   
 August 2013 - May 2017
 
 **Relevant Coursework:** Data Science, Categorical Data, Applied Regression, Epidemiology, Genetics, Economics, and Bioethics
@@ -22,28 +22,29 @@ August 2013 - May 2017
 
 # WORK EXPERIENCE
 
-**Columbia University Irving Medical Center**                    
-New York, NY
-*Graduate Student Researcher*							                
+**Columbia University Irving Medical Center**                 
+New York, NY <br>
+*Graduate Student Researcher*					                
 April 2019 - Present 
 
-**Department of Human Genetics, Emory School of Medicine**        
-Atlanta, GA
-*Research Specialist*                                   
+**Department of Human Genetics, Emory School of Medicine**      
+Atlanta, GA <br>
+*Research Specialist*                                 
 July 2017 - June 2018
 
-**Hubert Department of Global Health, Rollins School of Public Health**  Atlanta, GA
-*Research Assistant*	                                   
+**Hubert Department of Global Health, Rollins School of Public Health** <br>
+Atlanta, GA <br>
+*Research Assistant*                                 
 May 2016 - April 2017
 
-**JM Financial Ltd**                                   
-Mumbai, India
-*Analyst*                                                    
+**JM Financial Ltd**                                  
+Mumbai, India <br>
+*Analyst*                                                  
 May - August 2014
 
-**Genetics Laboratory, Jaslok Hospital and Research Center** 	   
-Mumbai, India
-*Intern*                                                    
+**Genetics Laboratory, Jaslok Hospital and Research Center**	   
+Mumbai, India <br>
+*Intern*                                                
 June - August 2013
 
 
@@ -62,6 +63,7 @@ February 2014-April 2016
 # SKILLS & ADDITIONAL INFORMATION
 
 **Skills:** SAS, R, SQL, Tableau, Microsoft Office (Word, Excel, PowerPoint, Access), Python (basics), WordPress, Bloomberg
-
-**Interests:** Astrophysics, Evolution, Soccer, Guitar, Skiing 
+<br>
+**Interests:** Astrophysics, Evolution, Soccer, Guitar, Skiing
+<br>
 **Languages:** English (Fluent), Hindi (Fluent), French (Basics), Italian (Basics)
