@@ -9,6 +9,8 @@ navbar:
       href: about.html
     - icon: fa-envelope fa-lg
       href: mailto:<jaioberoi99@gmail.com>
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/jai-oberoi-83b0844b/
     - icon: fa-github fa-lg
       href: http://github.com/jaioberoi/
 output:
