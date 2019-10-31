@@ -1,7 +1,8 @@
-name: "Jai's Website"
+name: "Jai Oberoi"
 output_dir: "."
 navbar:
-  title: "Jai Oberoi"
+  title: "JO"
+  type: inverse 
   left:
     - text: "Home"
       href: index.html
