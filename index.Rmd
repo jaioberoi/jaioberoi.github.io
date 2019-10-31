@@ -3,4 +3,6 @@ title: "Jai's Website"
 output: html_document
 ---
 
+![](images/homepagepic.jpg) 
+
 
