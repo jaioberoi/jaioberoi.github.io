@@ -1,8 +1,10 @@
 name: "Jai's Website"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Jai Oberoi"
   right:
+    - text: "Home"
+      href: index.html
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
@@ -12,3 +14,4 @@ navbar:
 output:
   html_document:
     theme: journal
+
