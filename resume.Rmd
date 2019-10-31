@@ -1,41 +1,65 @@
 ---
-title: "Resume"
+title: "Resume:"
 output: html_document
 ---
 
 
-#EDUCATION
-**Columbia University, Mailman School of Public Health          New York, NY**
-*Epidemiology Major, Certificate in Applied Biostatistics (MPH)*  August 2018 - May 2020 (expected)
+
+# EDUCATION
+
+**Columbia University, Mailman School of Public Health**
+New York, NY
+*Epidemiology Major, Certificate in Applied Biostatistics (MPH)*  
+August 2018 - May 2020 (expected)
    
-**Emory University, College of Arts and Sciences 	              Atlanta, GA**
-*Human Health Major, Economics Minor (BA)*					   August 2013 - May 2017
+**Emory University, College of Arts and Sciences**	             
+Atlanta, GA
+*Human Health Major, Economics Minor (BA)*					   
+August 2013 - May 2017
 
 **Relevant Coursework:** Data Science, Categorical Data, Applied Regression, Epidemiology, Genetics, Economics, and Bioethics
 
-#WORK EXPERIENCE
-**Columbia University Irving Medical Center                     New York, NY**
-*Graduate Student Researcher*							                April 2019 - Present 
-**Department of Human Genetics, Emory School of Medicine        Atlanta, GA**
-*Research Specialist*                                   July 2017 - June 2018
 
-**Hubert Department of Global Health, Rollins School of Public Health  Atlanta, GA**
-*Research Assistant*	                                   May 2016 - April 2017
+# WORK EXPERIENCE
 
-**JM Financial Ltd	                                           Mumbai, India**
-*Analyst*                                                    May - August 2014
+**Columbia University Irving Medical Center**                    
+New York, NY
+*Graduate Student Researcher*							                
+April 2019 - Present 
 
-**Genetics Laboratory, Jaslok Hospital and Research Center 	   Mumbai, India**
-*Intern*                                                    June - August 2013
+**Department of Human Genetics, Emory School of Medicine**        
+Atlanta, GA
+*Research Specialist*                                   
+July 2017 - June 2018
 
-#LEADERSHIP EXPERIENCE 
-**Interfraternity Council**, *Health Liaison*            January 2014-May 2017
+**Hubert Department of Global Health, Rollins School of Public Health**  Atlanta, GA
+*Research Assistant*	                                   
+May 2016 - April 2017
 
-**Peer Health Partner**, *Teaching Assistant*       August-December 2014, 2015
+**JM Financial Ltd**                                   
+Mumbai, India
+*Analyst*                                                    
+May - August 2014
 
-**Relay for Life at Emory University**, *Staff Member*     February 2014-April 2016
+**Genetics Laboratory, Jaslok Hospital and Research Center** 	   
+Mumbai, India
+*Intern*                                                    
+June - August 2013
 
-#SKILLS & ADDITIONAL INFORMATION
+
+# LEADERSHIP EXPERIENCE 
+
+**Interfraternity Council**, *Health Liaison*            
+January 2014-May 2017
+
+**Peer Health Partner**, *Teaching Assistant*       
+August-December 2014, 2015
+
+**Relay for Life at Emory University**, *Staff Member*     
+February 2014-April 2016
+
+
+# SKILLS & ADDITIONAL INFORMATION
 
 **Skills:** SAS, R, SQL, Tableau, Microsoft Office (Word, Excel, PowerPoint, Access), Python (basics), WordPress, Bloomberg
 
