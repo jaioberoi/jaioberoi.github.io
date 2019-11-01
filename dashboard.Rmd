@@ -1,6 +1,61 @@
 ---
 title: "Dashboard"
-output: html_document
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
 ---
 
+```{r setup, include = FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+library(plotly)
+```
 
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r include = FALSE}
+weather_df = 
+  rnoaa::meteo_pull_monitors(c("USW00094728", "USC00519397", "USS0023B17S"),
+                      var = c("PRCP", "TMIN", "TMAX", "SNOW", "SNWD"), 
+                      date_min = "2018-01-01",
+                      date_max = "2018-12-31") %>%
+  mutate(
+    name = recode(id, USW00094728 = "CentralPark_NY", 
+                      USC00519397 = "Waikiki_HA",
+                      USS0023B17S = "Waterhole_WA"),
+    tmin = tmin / 10,
+    tmax = tmax / 10,
+    month = lubridate::floor_date(date, unit = "month")) %>%
+  select(name, id, date, month, everything())
+```
+
+```{r warning=FALSE}
+plot_1 = plot_ly(weather_df, x = ~tmin, y = ~tmax, type = "scatter", mode = "markers", color = ~name, alpha = 0.5)
+
+plot_1
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r warning=FALSE}
+plot_2 = plot_ly(weather_df, x = ~name, y = ~tmax, type = "violin", color = ~name, alpha = 0.5)
+
+plot_2
+```
+
+### Chart C
+
+```{r warning=FALSE}
+plot_3 = plot_ly(weather_df, x = ~date, y = ~tmax, type = "area" , color = ~name)
+
+plot_3
+```
