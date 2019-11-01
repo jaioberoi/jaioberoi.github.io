@@ -5,6 +5,13 @@ output: html_document
 
 <img src="images/nyc.jpg">
 
+
+*"Do whatever it takes to avoid fooling yourself into thinking something is true that is not, or that something is not true that is"*
+
+Student at Columbia University, Mailman School of Public Health 
+Epidemiology & Biostatistics
+
+
 Check out my [dashboard](dashboard.html)
 
 
