@@ -18,7 +18,7 @@ Originally, I am from Mumbai, India. I obtained by BA from [Emory University](ht
 
 I obtained by MPH from  [Columbia University, Mailman School of Public Health](https://www.mailman.columbia.edu/) in *Epidemiology* and *Biostatistics*. 
 
-Currently, I am involved in reseach at [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/), where I investigate how biologic aging measured by [telomere length](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4292845/) predicts either exceptional metablic, cardiovascular, and cognitive phenotypes. 
+Currently, I am involved in reseach at [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/), where I investigate how biologic aging measured by [telomere length](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4292845/) predicts exceptional metabolic, cardiovascular, and cognitive phenotypes. 
 
 My current research skills include machine learning, predictive models, longitudinal data analysis, data mining, and the application of statistics and epidemiology to genetic research questions. 
 
