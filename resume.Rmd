@@ -50,7 +50,7 @@ June - August 2013
 
 # LEADERSHIP EXPERIENCE 
 
-**Graduate Teaching Assistant**, *Analysis of Categorical Data*
+**Graduate Teaching Assistant**, *Analysis of Categorical Data* <br>
 January-May 2020
 
 **Interfraternity Council**, *Health Liaison*            
@@ -65,7 +65,7 @@ February 2014-April 2016
 
 # SKILLS & ADDITIONAL INFORMATION
 
-**Skills:** SAS, R, SQL, Tableau, Microsoft Office (Word, Excel, PowerPoint, Access), WordPress, GitHub, REDCAP, Bloomberg
+**Skills:** SAS, R, SQL, Tableau, Microsoft Office (Word, Excel, PowerPoint, Access), WordPress, GitHub, RedCap, Bloomberg
 <br>
 **Interests:** Astrophysics, Soccer, Guitar, Skiing
 <br>
