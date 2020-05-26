@@ -10,14 +10,14 @@ output: html_document
 **Columbia University, Mailman School of Public Health** <br>
 New York, NY <br>
 *Epidemiology Major, Certificate in Applied Biostatistics (MPH)* <br> 
-August 2018 - May 2020 (expected)
+August 2018 - May 2020 
    
 **Emory University, College of Arts and Sciences**             
 Atlanta, GA <br>
 *Human Health Major, Economics Minor (BA)*					   
 August 2013 - May 2017
 
-**Relevant Coursework:** Data Science, Categorical Data, Applied Regression, Epidemiology, Genetics, Economics, and Bioethics
+**Relevant Coursework:** Data Science, Machine Learning, Survival Analysis, Health Economics, Applied Regression, Clinical Trails
 
 
 # WORK EXPERIENCE
@@ -50,10 +50,13 @@ June - August 2013
 
 # LEADERSHIP EXPERIENCE 
 
+**Graduate Teaching Assistant**, *Analysis of Categorical Data*
+January-May 2020
+
 **Interfraternity Council**, *Health Liaison*            
 January 2014-May 2017
 
-**Peer Health Partner**, *Teaching Assistant*       
+**Undergraduate Teaching Assistant**, *Health 100*       
 August-December 2014, 2015
 
 **Relay for Life at Emory University**, *Staff Member*     
@@ -62,9 +65,9 @@ February 2014-April 2016
 
 # SKILLS & ADDITIONAL INFORMATION
 
-**Skills:** SAS, R, SQL, Tableau, Microsoft Office (Word, Excel, PowerPoint, Access), Python (basics), WordPress, Bloomberg
+**Skills:** SAS, R, SQL, Tableau, Microsoft Office (Word, Excel, PowerPoint, Access), WordPress, GitHub, REDCAP, Bloomberg
 <br>
-**Interests:** Astrophysics, Evolution, Soccer, Guitar, Skiing
+**Interests:** Astrophysics, Soccer, Guitar, Skiing
 <br>
 **Languages:** English (Fluent), Hindi (Fluent), French (Basics), Italian (Basics)
 
