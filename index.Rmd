@@ -3,15 +3,22 @@ title: "Jai Oberoi"
 output: html_document
 ---
 
-<img src="images/nyc.jpg">
-
-
-*"Scientists are simply adults who retained and nurtured their native curiosity from childhood"*
-
-Student at Columbia University, Mailman School of Public Health <br>
+Recent MPH graduate from [Columbia University, Mailman School of Public Health](https://www.publichealth.columbia.edu/) <br>
 Epidemiology & Biostatistics
 
+*"Science is more Art than Science"*
 
-Check out my [dashboard](dashboard.html)
+<img src="images/aboutpic.jpg" style="width:20%; border:5px; margin-right: 30px" align="left">>
+
+
+# About
+
+Originally, I am from Mumbai, India. I obtained by BA from [Emory University](http://www.emory.edu/home/index.html) in Health Science (2017), and now I live in New York City. 
+
+I obtained by MPH from  [Columbia University, Mailman School of Public Health](https://www.mailman.columbia.edu/) in *Epidemiology* and *Biostatistics*. 
+
+Currently, I am involved in reseach at [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/), where I investigate how biologic aging measured by [telomere length](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4292845/) predicts either exceptional metablic, cardiovascular, and cognitive phenotypes. 
+
+My current research skills include machine learning, predictive models, longitudinal data analysis, data mining, and the application of statistics and epidemiology to genetic research questions. 
 
 
