@@ -8,6 +8,8 @@ navbar:
       href: index.html
     - text: "Resume"
       href: resume.html
+    - text: "Project"
+      href: Project.html
     - text: "Dashboard"
       href: dashboard.html
   right:
