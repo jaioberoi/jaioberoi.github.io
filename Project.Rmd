@@ -2,6 +2,9 @@
 title: "Project"
 output: html_document
 ---
+<br>
+<img src="images/ems.jpg" style="width:30%; border:5px" align="center"> 
+<br>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
