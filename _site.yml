@@ -4,7 +4,7 @@ navbar:
   title: "JO"
   type: inverse 
   left:
-    - text: "Home"
+    - text: "About"
       href: index.html
     - text: "Resume"
       href: resume.html
