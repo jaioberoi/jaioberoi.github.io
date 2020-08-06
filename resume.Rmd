@@ -5,6 +5,9 @@ output: html_document
 
 
 
+#### VALUE PROPOSITION
+Applying, as a data science researcher, my six years of professional experiences, distinguished computational skills, communication talents, and dogmatic work ethics to a research institution’s top and bottom lines 
+
 #### EDUCATION
 
 **Columbia University, Mailman School of Public Health** <br>
@@ -16,8 +19,6 @@ August 2018 - May 2020
 Atlanta, GA <br>
 *Human Health Major, Economics Minor (BA)*					   
 August 2013 - May 2017
-
-**Relevant Coursework:** Data Science, Machine Learning, Survival Analysis, Health Economics, Applied Regression, Clinical Trials
 
 
 #### WORK EXPERIENCE
@@ -65,7 +66,7 @@ February 2014-April 2016
 
 #### SKILLS & ADDITIONAL INFORMATION
 
-**Skills:** SAS, R, SQL, Tableau, Microsoft Office (Word, Excel, PowerPoint, Access), WordPress, GitHub, RedCap, Bloomberg
+**Skills:** SAS, R, SQL, Tableau, Microsoft Office (Word, Excel, PowerPoint, Access), Git, RedCap
 <br>
 **Interests:** Astrophysics, Soccer, Guitar, Skiing
 <br>
