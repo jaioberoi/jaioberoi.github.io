@@ -7,13 +7,14 @@ navbar:
       href: index.html
     - text: "Resume"
       href: resume.html
-    - text: "Project"
+    - text: "Projects"
       href: Project.html
-    - text: "Dashboard"
+    - text: "Articles"
       href: dashboard.html
+      
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:<jaioberoi99@gmail.com>si
+      href: mailto:<jaioberoi99@gmail.com>
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/jai-oberoi-83b0844b/
     - icon: fa-github fa-lg
