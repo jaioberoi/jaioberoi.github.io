@@ -1,9 +1,6 @@
 ---
-title: "Dashboard"
-output: 
-  flexdashboard::flex_dashboard:
-    orientation: columns
-    vertical_layout: fill
+title: "Articles"
+output: html_document
 ---
 
 ```{r setup, include = FALSE}
