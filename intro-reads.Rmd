@@ -1,0 +1,11 @@
+---
+title: "Quick Reads"
+output: html_document
+---
+
+I am compiling some thoughts I've had during lock-down. These are opinion articles. 
+
+Future topics to include: 
+  Religion and Science, 
+  Nutrition Myths, 
+  Mindfulness 
