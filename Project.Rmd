@@ -1,15 +1,17 @@
 ---
 title: "EMS Data - NYC"
 output: html_document
-  code_folding: hide
 ---
 <br>
 <img src="images/ems.jpg" style="width:30%; border:5px" align="center"> 
 <br>
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
-
+knitr::opts_chunk$set(
+	echo = TRUE,
+	message = FALSE,
+	warning = FALSE
+)
 library(tidyverse)
 library(viridis)
 library(rvest)
@@ -23,7 +25,7 @@ library(sqldf)
 library(viridis)
 ```
 
-```{r warning=FALSE, echo=FALSE}
+```{r echo=FALSE, warning=FALSE}
 ems_data_clean = read.csv("./data/EMS_Incident_Dispatch_Data.csv") %>%
   select(INITIAL_SEVERITY_LEVEL_CODE, FINAL_SEVERITY_LEVEL_CODE, INITIAL_CALL_TYPE,
          DISPATCH_RESPONSE_SECONDS_QY, INCIDENT_TRAVEL_TM_SECONDS_QY, HELD_INDICATOR, BOROUGH,
