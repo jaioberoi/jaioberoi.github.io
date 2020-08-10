@@ -1,6 +1,7 @@
 ---
-title: "ems_Project"
+title: "EMS Data - NYC"
 output: html_document
+  code_folding: hide
 ---
 <br>
 <img src="images/ems.jpg" style="width:30%; border:5px" align="center"> 

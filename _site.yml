@@ -9,10 +9,12 @@ navbar:
       href: resume.html
     - text: "Projects"
     - menu:
+        - text: "Projects"
         - text: "NYC EMS"
           href: Project.html
     - text: "Articles"
     - menu:
+        - text: "Reads"
         - text: "Article 1"
           href: dashboard.html
       

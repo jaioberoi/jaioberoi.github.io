@@ -16,7 +16,7 @@ Epidemiology & Biostatistics
 
 I obtained my BA from [Emory University](http://www.emory.edu/home/index.html) in Health Sciences with a minor in Economics (2017). I obtained my MPH from [Columbia University, Mailman School of Public Health](https://www.mailman.columbia.edu/) in *Epidemiology* with a certificate in *Applied Biostatistics* (2020). My thesis focused on both genotypic and phenotypic characteristics of healthy aging and was advised by [Joseph H. Lee](https://www.publichealth.columbia.edu/people/our-faculty/jhl2). 
 
-My current research interests include machine learning in epidemiology, predictive models, longitudinal data analysis, data mining, and the application of statistics and epidemiology to genetic research questions. I am also very interested in teaching statistical and biological concepts within the health sciences. 
+My current research interests include machine learning in epidemiology, predictive models, longitudinal data analysis, data mining, and the application of statistics and epidemiology to genetic research questions. I am also very interested in teaching statistical and biological concepts within health science. 
 
 <br>
 
