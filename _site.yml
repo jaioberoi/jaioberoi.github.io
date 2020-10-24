@@ -5,8 +5,6 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "Resume"
-      href: resume.html
     - text: "Projects"
       href: intro-proj.html
     - menu:
@@ -14,9 +12,8 @@ navbar:
           href: Project.html
     - text: "Reads"
       href: intro-reads.html
-    - menu:
-        - text: "Look how they shine for you"
-          href: dashboard.html
+    - text: "Publications"
+      href: pub.html
       
   right:
     - icon: fa-envelope fa-lg

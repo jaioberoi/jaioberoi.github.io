@@ -1,0 +1,7 @@
+---
+title: "Publications"
+output: html_document
+---
+
+Trevino, C.E., Holleman, A.M., Corbitt, H. et al. Identifying genetic factors that contribute to the increased risk of congenital heart defects in infants with Down syndrome. Sci Rep10, 18051 (2020). https://doi.org/10.1038/s41598-020-74650-4    (Co-author) 
+

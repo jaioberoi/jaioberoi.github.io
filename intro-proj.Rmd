@@ -4,7 +4,7 @@ output: html_document
 ---
 
 ##### Data Science 
-I analyze real world data to uncover or confirm new objective truths. 
+I analyze real world data to uncover or confirm objective truths.  
 
 ##### Epidemiology 
 My scientific curiosity mostly encompasses public health, genetic epidemiology, metabolic health, and aging. I am working on expanding to more diverse datasets. 
